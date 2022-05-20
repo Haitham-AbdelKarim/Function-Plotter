@@ -1,0 +1,21 @@
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\Function Plotter.exe.config
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\Function Plotter.exe
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\Function Plotter.pdb
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function Plotter.csproj.AssemblyReference.cache
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function Plotter.csproj.SuggestedBindingRedirects.cache
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function_Plotter.Form1.resources
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function_Plotter.Properties.Resources.resources
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function Plotter.csproj.GenerateResource.cache
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function Plotter.csproj.CoreCompileInputs.cache
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function Plotter.exe
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function Plotter.pdb
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.dll
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.WinForms.dll
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.Wpf.dll
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.pdb
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.xml
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.WinForms.pdb
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.WinForms.xml
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.Wpf.pdb
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\bin\Debug\LiveCharts.Wpf.xml
+D:\H\Master Micro Tasks\Function Plotter\Function Plotter\obj\Debug\Function Plotter.csproj.CopyComplete
