@@ -1,3 +1,0 @@
-division by zero
-erro message
-gui
